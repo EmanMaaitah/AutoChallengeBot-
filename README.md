@@ -95,3 +95,7 @@ The strict selector will be deactivated in the selection options because it does
 
 Finally, the result is taken and sent to the user.
 
+# Results
+
+To watch the robot run and the results, [click here](https://drive.google.com/file/d/1_-iIwDvp5RHsMyQ9fg6IeJlsgacup_70/view?usp=drive_link)
+
