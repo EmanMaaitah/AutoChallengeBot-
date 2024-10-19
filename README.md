@@ -1,7 +1,7 @@
 # OBJECTIVE 
 The project talks about a [challenge](https://rpachallenge.com/) created by the ui path team to input data from a spreadsheet into the form fields on the screen.
 The idea of ​​the project is to track the input field based on its position every time the page is updated to move to the next stage.The goal of the project is to learn how to use [the Targets and Anchors selectors](https://docs.uipath.com/studiox/standalone/2022.4/user-guide/about-targets-and-anchors) . Anchors used with unstable selector, In addition to the [strict and fuzzy selector](https://docs.uipath.com/activities/other/latest/ui-automation%22/advanced-descriptor-configuration).
-## manually
+## MANUALLY
 1) Excel 
 2)  Data Transfer
 3)  Website
